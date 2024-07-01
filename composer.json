@@ -1,6 +1,6 @@
 {
-    "name": "koolreport/barcode",
-    "version":"3.0.1",
+    "name": "cliqued-media/barcode",
+    "version":"1.0.0",
     "description": "Display barcode and qrcode",
     "keywords": ["PHP","php reprting tools","php reporting framework","mysql reporting tools","barcode generator", "qrcode generator"],
     "homepage": "https://www.koolreport.com",
